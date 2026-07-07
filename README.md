@@ -2,7 +2,7 @@
 
 # Hi, I'm Edwin Coro 👋
 
-## Data Analyst with ML Expertise | Electrical Engineer
+## Data Analyst with ML Expertise | Electronics Engineer
 
 🌍 Based in Ecuador | 💼 Open to Remote Work
 
