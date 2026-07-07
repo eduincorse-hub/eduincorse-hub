@@ -25,7 +25,7 @@ from data exploration to production-ready dashboards and predictive models.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=flat&logo=autodesk&logoColor=white)
+
 
 ---
 
