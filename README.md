@@ -53,5 +53,3 @@ from data exploration to production-ready dashboards and predictive models.
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:corsedwin@gmail.com)
 
 ---
-
-⚡ *"Combining electrical engineering knowledge with data science to solve real-world energy problems"*
