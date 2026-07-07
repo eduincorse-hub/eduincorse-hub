@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Electrical Engineer specialized in Data Analytics and Machine Learning,
+Electronics Engineer specialized in backend development, Data Analytics and Machine Learning,
 focused on the energy sector. I build end-to-end data solutions —
 from data exploration to production-ready dashboards and predictive models.
 
