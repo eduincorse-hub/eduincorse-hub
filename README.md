@@ -27,7 +27,7 @@ architectures with Spring Cloud — and bring an analytical, data-driven approac
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🧾 [SRI Electronic Invoicing](TU_LINK_AQUI) | Electronic invoicing system for Ecuador with XAdES-BES digital signature, SOAP integration and XML schema generation | Java 21, Spring Boot, Microservices, Spring Cloud |
+| 🧾 [SRI Electronic Invoicing](https://github.com/eduincorse-hub/facturacion-electronica-sri-ecuador) | Electronic invoicing system for Ecuador with XAdES-BES digital signature, SOAP integration and XML schema generation | Java 21, Spring Boot, Microservices, Spring Cloud |
 | 🏦 [Banking Microservices](TU_LINK_AQUI) | Banking backend with microservices architecture (Eureka, Config Server, JWT Auth) | Java 21, Spring Boot 4.1, Spring Cloud 2025.1.2 |
 | 🧩 [Work Item Distribution](https://github.com/eduincorse-hub/gestion-items-trabajo-edwin-coro) | Work item distribution algorithm with unit testing | C#, .NET 7, xUnit |) | Work item distribution algorithm with unit testing | C#, .NET 7, xUnit |
 
